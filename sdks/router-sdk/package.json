@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/router-sdk",
+  "name": "@mj-dj-mj/router-sdk",
   "description": "An sdk for routing swaps using Uniswap v2 and Uniswap v3.",
   "repository": "git@github.com:LucyTrump0x/v3-sdk.git",
   "keywords": [
