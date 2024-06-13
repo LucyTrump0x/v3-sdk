@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/router-sdk",
   "description": "An sdk for routing swaps using Uniswap v2 and Uniswap v3.",
-  "repository": "https://github.com/Uniswap/sdks.git",
+  "repository": "git@github.com:LucyTrump0x/v3-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
