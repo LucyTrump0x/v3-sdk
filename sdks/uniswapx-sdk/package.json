@@ -25,7 +25,8 @@
     "test": "run-s build test:unit test:integration",
     "test:unit": "jest --testPathPattern src --detectOpenHandles --forceExit --testPathIgnorePatterns dist",
     "test:integration": "yarn build && cd integration && yarn && yarn test",
-    "typechain": "typechain --target=ethers-v5 --out-dir src/contracts --glob ./abis/**/*.json"
+    "typechain": "typechain --target=ethers-v5 --out-dir src/contracts --glob ./abis/**/*.json",
+    "pack": "npm pack"
   },
   "dependencies": {
     "@ethersproject/bytes": "^5.7.0",
